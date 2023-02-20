@@ -1,0 +1,50 @@
+body {
+    background-color:grey
+
+}
+
+h1 {
+    color: tomato;
+    text-decoration: underline;
+}
+
+.skills {
+
+    color: green
+}
+/* Hola Estoy comentando yiujuuuu */
+
+
+.menu {
+    text-align: center;
+    background-color: black;
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding: 10px
+}
+
+.menu ul{
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block; 
+    padding-right: 5px;
+    padding-left: 5px;
+    border-right: 1px solid white;
+}
+
+
+.menu li.sin-bordes{
+border: none
+}
+
+
+.menu a {
+    color: white;
+    text-decoration: none;
+
+}
+.menu a:hover {
+    color: tomato;
+}
